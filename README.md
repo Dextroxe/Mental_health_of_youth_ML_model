@@ -6,5 +6,8 @@ We have created an ML model with the use of DASS 42 questions and also use NLP f
 
 To get access to this daataset ping me in discord ``` ScIenCe BoY#8216 ```
 
+form link: https://forms.gle/QpSnNRWXVpVftCeB6 
+The original responses have been saved and this form no longer have the same spredsheet link
+
 ## Project use
 We created this project using Google Colab default settings and it consists of NLP and model classification problems 
