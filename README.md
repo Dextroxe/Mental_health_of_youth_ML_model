@@ -8,7 +8,7 @@ To get access to this daataset ping me in discord ``` ScIenCe BoY#8216 ```
 
 form link: https://forms.gle/QpSnNRWXVpVftCeB6 
 The original responses have been saved and this form no longer have the same spredsheet link
-Google colab link: [Images](https://colab.research.google.com/drive/1aaYok7Sh4MJxdqJjtmUR8eazvjWBsqNe?usp=sharing)
+Google colab link: [Googe Colab >](https://colab.research.google.com/drive/1aaYok7Sh4MJxdqJjtmUR8eazvjWBsqNe?usp=sharing)
 
 ## Project use
 We created this project using Google Colab default settings and it consists of NLP and model classification problems 
